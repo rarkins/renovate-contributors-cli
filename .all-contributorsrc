@@ -9,6 +9,28 @@
   "imageSize": 100,
   "commit": false,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "rarkins",
+      "name": "Rhys Arkins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6311784?v=4",
+      "profile": "https://renovatebot.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "bug",
+        "data",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "question",
+        "review",
+        "security",
+        "tool",
+        "test"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
