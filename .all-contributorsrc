@@ -1,0 +1,14 @@
+{
+  "projectName": " renovate-contributors-cli",
+  "projectOwner": "HonkingGoose",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "all-contributors.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [],
+  "contributorsPerLine": 7
+}
