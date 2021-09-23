@@ -1,6 +1,8 @@
 # renovate-contributors-cli
 
-Throwaway repository to try out all-contributors CLI tooling
+Throwaway repository to try out all-contributors CLI tooling.
+
+Tested by @rarkins
 
 ## Configuration dialog steps
 
