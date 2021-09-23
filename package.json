@@ -1,0 +1,26 @@
+{
+  "name": "renovate-contributors-cli",
+  "version": "0.0.0",
+  "description": "Throwaway repository to test all-contributors CLI tooling for the Renovate project",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "prettier --check .",
+    "prettier-fix": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HonkingGoose/renovate-contributors-cli.git"
+  },
+  "author": "HonkingGoose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HonkingGoose/renovate-contributors-cli/issues"
+  },
+  "homepage": "https://github.com/HonkingGoose/renovate-contributors-cli#readme",
+  "devDependencies": {
+    "all-contributors-cli": "6.20.0",
+    "prettier": "2.4.1"
+  }
+}
